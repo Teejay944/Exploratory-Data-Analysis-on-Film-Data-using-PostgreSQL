@@ -1,16 +1,16 @@
-Project_Name: #Exploratory-Data-Analysis-on-Film-Data-using-PostgreSQL
+Project_Name: **Exploratory-Data-Analysis-on-Film-Data-using-PostgreSQL**
 
 This project focuses on conducting exploratory data analysis (EDA) on a dataset of films using PostgreSQL. By leveraging SQL queries and data visualization techniques, we aim to explore the dataset, answer specific business questions, and showcase proficiency in utilizing PostgreSQL for data analysis
 
-#Disclaimer: Please note that the dataset used in this project is not real-life data but is for the purpose of learning and demonstrating data analysis techniques.
+**Disclaimer**: Please note that the dataset used in this project is not real-life data but is for the purpose of learning and demonstrating data analysis techniques.
 
-#Project Structure:
+**Project Structure**:
 Database Setup: Establish the PostgreSQL database and load the films dataset.
 Data Exploration: Conduct exploratory data analysis using SQL queries to examine film attributes and metrics.
 Answer Business Questions: Address specific business questions or hypotheses by analyzing the data and presenting conclusions.
 Documentation: Document the analysis process, findings, and insights in a Jupyter Notebook for easy sharing and reference.
 
-Project Tasks:
+**Project Tasks:**
 Task 1: Data Retrieval
 1. Connect to the "film" database using PostgreSQL and PgAdmin.
 Task 2: Film Analysis
