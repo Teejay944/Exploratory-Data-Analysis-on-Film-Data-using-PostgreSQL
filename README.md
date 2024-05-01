@@ -38,3 +38,6 @@ use either PowerPoint or Google Slides. If you want to create a report, it shoul
 format.
 17. The report should contain a screenshot of the SQL code and another screenshot of the result. 
 Then you explain your findings briefly.
+
+**Data Source**:
+The films dataset is sourced from Kaggle for learning purposes. It contains information on thousands of films, including details such as title, genre, release year, director, ratings, budget, revenue e.t.c.
